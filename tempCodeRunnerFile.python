@@ -1,0 +1,2 @@
+import os
+image_path = os.path.abspath("archive/forest_fire/Testing/abc169.jpg")
